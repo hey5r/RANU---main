@@ -31,6 +31,7 @@
     "@vreden/youtube_scraper": "^1.2.7",
     "wa-sticker-formatter": "^4.4.4",
     "google-tts-api": "^2.0.2",
-    "@vitalets/google-translate-api": "9.2.1"
+    "@vitalets/google-translate-api": "9.2.1",
+    "adm-zip": "0.5.16"
   }
 }
